@@ -8,6 +8,7 @@ function Printpyramid(totalLine:number):void{
            singleLine = singleLine+"*";
         }
         console.log(singleLine);
+        
     }
 }
 //var num:string = process.argv[2];
